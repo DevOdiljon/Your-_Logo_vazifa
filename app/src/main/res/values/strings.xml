@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Your Logo</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="your_logo">Your Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_your_favourite_dishes">All Your Favourite Dishes</string>
+    <string name="text">Order nf,ceb qnbfqebfl cjqkhcqecvblec ckslbhcifqlbc qncm qkcbqei cqcjqeqice n cqjvcldcqjc</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="odilkek_rustamov">Odilkek Rustamov</string>
+    <string name="odiljon1779_gmail_com">odiljon1779@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_account">Sign in Account</string>
+</resources>
